@@ -1,4 +1,4 @@
-sdoh-clustering
+sdoh-clusters
 ==============================
 
 An end to end example of a k-means clustering model for the Nashville Analytics Summit tutorial. We use publicly available data on the social determinants of health.
@@ -15,12 +15,12 @@ An end to end example of a k-means clustering model for the Nashville Analytics 
 
 3. Start a Terminal (Mac) or the Anaconda Prompt (Windows). Type `jupyter lab` at the prompt and hit enter to start JupyterLab. It should open in a broswer window.
 
-4. Navigate to your copy of this repository in the Jupyter Lab navigation pane on the left. Continue to the `sdoh-clustering/notebooks` subfolder and double click to open `2.0-clustering.ipynb`.
+4. Navigate to your copy of this repository in the Jupyter Lab navigation pane on the left. Continue to the `sdoh-clusters/notebooks` subfolder and double click to open `2.0-clustering.ipynb`.
 
-5. Open a terminal in Jupyter Lab (File -> New -> Terminal) and navigate to your copy of the `sdoh-clustering` folder. You can use `cd` to navitage on the command line:
+5. Open a terminal in Jupyter Lab (File -> New -> Terminal) and navigate to your copy of the `sdoh-clusters` folder. You can use `cd` to navitage on the command line:
 
 ```
-cd /your/path/to/sdoh-clustering
+cd /your/path/to/sdoh-clusters
 ```
 
 6. Run `conda install pytest` at the terminal
